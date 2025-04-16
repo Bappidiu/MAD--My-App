@@ -1,9 +1,5 @@
 # SKB Travels
 
-Website Link: [SKB Travels](https://skb-travels.web.app).
-
-Server Link: [Click Here](https://fast-taiga-62917.herokuapp.com).
-
 ### `Short Description`
 SKB Travels, For over 55 years, EF has been working to keep minds and the world wide open. We design tours to help educators teach, and so students can learn more about tolerance, other perspectives, and themselves.
 
